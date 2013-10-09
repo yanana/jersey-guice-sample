@@ -39,6 +39,7 @@ repositories {
 
 dependencies {
     compile 'com.sun.jersey:jersey-server:1.17.1',
+            'com.sun.jersey:jersey-servlet:1.17.1',
             'com.sun.jersey:jersey-json:1.17.1',
             'com.sun.jersey.contribs:jersey-guice:1.17.1',
             'org.hibernate:hibernate-core:4.2.6.Final',
